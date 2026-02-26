@@ -13,7 +13,7 @@ export function Header() {
           FaceLivro
         </Link>
         
-        <nav className="flex gap-6">
+        {/* <nav className="flex gap-6">
           <Link 
             to="/" 
             className={`flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${
@@ -37,7 +37,7 @@ export function Header() {
             <User className="w-5 h-5" />
             <span>Perfil</span>
           </Link>
-        </nav>
+        </nav> */}
       </div>
     </header>
   );
