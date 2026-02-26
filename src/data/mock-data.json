@@ -1,4 +1,4 @@
-{
+﻿{
   "currentUserId": "silva",
   "users": [
     {
@@ -67,8 +67,8 @@
       "id": "daniel",
       "name": "Daniel Bassani",
       "photo": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-      "description": "Show épico ontem à noite! 🎸🎵",
-      "bio": "Apaixonado por rock || Fã de Linkin Park",
+      "description": "Show épico ontem à noite!",
+      "bio": "Apaixonado por rock | Fã de Linkin Park",
       "coverPhoto": "https://images.unsplash.com/photo-1631061434620-db65394197e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwbXVzaWMlMjBsaXZlfGVufDF8fHx8MTc3MjA1NDYzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "camila", "rafael", "jana"]
     },
@@ -96,9 +96,39 @@
       "bio": "Médica | Cuidando de vidas",
       "coverPhoto": "https://images.unsplash.com/photo-1710596220294-3f88dfe02fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBmb3Jlc3QlMjBncmVlbnxlbnwxfHx8fDE3NzIwMDI0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael"]
+    },
+    {
+      "id": "maxnet",
+      "name": "MaxNet",
+      "photo": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "bio": "Internet de alta velocidade para sua casa e empresa.",
+      "coverPhoto": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
     }
   ],
   "posts": [
+    {
+      "id": "maxnet-1",
+      "userId": "maxnet",
+      "userName": "MaxNet",
+      "userPhoto": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "description": "Chegamos com nova cobertura de fibra para mais bairros da cidade.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "timestamp": "2026-02-26T08:00:00",
+      "likes": 118,
+      "comments": []
+    },
+    {
+      "id": "maxnet-2",
+      "userId": "maxnet",
+      "userName": "MaxNet",
+      "userPhoto": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "description": "Plano empresarial com suporte dedicado ja disponivel.",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "timestamp": "2026-02-25T11:20:00",
+      "likes": 87,
+      "comments": []
+    },
     {
       "id": "p1",
       "userId": "silva",
@@ -127,7 +157,7 @@
       "userId": "maria",
       "userName": "Maria Gomes",
       "userPhoto": "https://media.istockphoto.com/id/1330522839/pt/foto/young-woman-contemplating-at-home.jpg?s=2048x2048&w=is&k=20&c=mIlIrdHq1uc_JBwNIxuPUT5k0f4th1H6QN-WPDUkkw0=",      
-      "description": "Jantar maravilhoso com a família! 🍽️❤️",
+      "description": "Jantar maravilhoso com a família!",
       "image": "https://images.unsplash.com/photo-1671393035355-1a28b63b1752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb29kJTIwZGVsaWNpb3VzJTIwcmVzdGF1cmFudHxlbnwxfHx8fDE3NzIwMjMzNjh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "timestamp": "2026-02-25T20:00:00",
       "likes": 56,
@@ -138,7 +168,7 @@
       "userId": "pedro",
       "userName": "Pedro Costa",
       "userPhoto": "https://images.unsplash.com/photo-1695485121912-25c7ea05119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYW4lMjBjYXN1YWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIwMjIzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "description": "Aventura nas montanhas! A vista é espetacular 🏔️",
+      "description": "Aventura nas montanhas! A vista é espetacular.",
       "image": "https://images.unsplash.com/photo-1713959989861-2425c95e9777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBtb3VudGFpbnMlMjBsYW5kc2NhcGV8ZW58MXx8fHwxNzcyMDk0OTAxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "timestamp": "2026-02-25T16:20:00",
       "likes": 73,
@@ -149,7 +179,7 @@
       "userId": "ana",
       "userName": "Ana Paula",
       "userPhoto": "https://images.unsplash.com/photo-1525786210598-d527194d3e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMHdvbWFuJTIwc21pbGluZ3xlbnwxfHx8fDE3NzIwNTgzOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "description": "Cidade iluminada à noite é pura magia ✨🌃",
+      "description": "Cidade iluminada à noite é pura magia.",
       "image": "https://images.unsplash.com/photo-1688549450664-8189b4ac4751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbGlnaHRzJTIwbmlnaHR8ZW58MXx8fHwxNzcyMDgxNzkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "timestamp": "2026-02-24T22:10:00",
       "likes": 61,
@@ -160,7 +190,7 @@
       "userId": "carlos",
       "userName": "Carlos Almeida",
       "userPhoto": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",
-      "description": "Meu novo melhor amigo 🐕❤️",
+      "description": "Meu novo melhor amigo.",
       "image": "https://images.unsplash.com/photo-1669278340111-93766d4c5be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkb2clMjBwZXQlMjBjdXRlfGVufDF8fHx8MTc3MjA4Mjg1Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "timestamp": "2026-02-24T15:30:00",
       "likes": 89,
@@ -171,7 +201,7 @@
       "userId": "juliana",
       "userName": "Juliana Oliveira",
       "userPhoto": "https://images.unsplash.com/photo-1717378706934-3f44829052e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlciUyMGdpcmwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIxMDM3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "description": "Terminei mais um livro incrível hoje! 📚",
+      "description": "Terminei mais um livro incrível hoje!",
       "image": "https://images.unsplash.com/photo-1706195546853-a81b6a190daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwcmVhZGluZyUyMGNvenl8ZW58MXx8fHwxNzcyMDEyNTkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "timestamp": "2026-02-26T10:00:00",
       "likes": 45,
@@ -182,7 +212,7 @@
       "userId": "daniel",
       "userName": "Daniel Bassani",
       "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-      "description": "Show épico ontem à noite! 🎸🎵",
+      "description": "Show épico ontem à noite!",
       "image": "https://images.unsplash.com/photo-1631061434620-db65394197e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwbXVzaWMlMjBsaXZlfGVufDF8fHx8MTc3MjA1NDYzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "timestamp": "2026-02-26T09:00:00",
       "likes": 92,
@@ -204,7 +234,7 @@
       "userId": "daniel",
       "userName": "Daniel Bassani",
       "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-      "description": "Aeehh, galerinha. Quem vai? 🎸🎵",
+      "description": "Aeehh, galerinha. Quem vai?",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhRq0TKfTD-tmpNUPt_B4KLYi_Zmfyq_bag&s",
       "timestamp": "2025-02-26T09:00:00",
       "likes": 92,
@@ -228,4 +258,6 @@
     
   ]
 }
+
+
 
