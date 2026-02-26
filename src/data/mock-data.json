@@ -1,0 +1,231 @@
+{
+  "currentUserId": "silva",
+  "users": [
+    {
+      "id": "silva",
+      "name": "Silva da Cunha",
+      "photo": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Palmeiras até a morte",
+      "coverPhoto": "https://media-manager.noticiasaominuto.com.br/960/naom_63221d72978cf.webp",      
+      "friends": ["maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "maria",
+      "name": "Maria Gomes",
+      "photo": "https://media.istockphoto.com/id/1330522839/pt/foto/young-woman-contemplating-at-home.jpg?s=2048x2048&w=is&k=20&c=mIlIrdHq1uc_JBwNIxuPUT5k0f4th1H6QN-WPDUkkw0=",      "bio": "Chef de Cozinha | Foodie apaixonada",
+      "coverPhoto": "https://images.unsplash.com/photo-1671393035355-1a28b63b1752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb29kJTIwZGVsaWNpb3VzJTIwcmVzdGF1cmFudHxlbnwxfHx8fDE3NzIwMjMzNjh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "pedro",
+      "name": "Pedro Costa",
+      "photo": "https://images.unsplash.com/photo-1695485121912-25c7ea05119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYW4lMjBjYXN1YWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIwMjIzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Aventureiro | Fotógrafo de paisagens",
+      "coverPhoto": "https://images.unsplash.com/photo-1713959989861-2425c95e9777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBtb3VudGFpbnMlMjBsYW5kc2NhcGV8ZW58MXx8fHwxNzcyMDk0OTAxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "ana",
+      "name": "Ana Paula",
+      "photo": "https://images.unsplash.com/photo-1525786210598-d527194d3e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMHdvbWFuJTIwc21pbGluZ3xlbnwxfHx8fDE3NzIwNTgzOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Designer Gráfica | Criativa por natureza",
+      "coverPhoto": "https://images.unsplash.com/photo-1697257378991-b57497dddc69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnQlMjBnYWxsZXJ5JTIwYWJzdHJhY3R8ZW58MXx8fHwxNzcyMTA0MTUwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos Almeida",
+      "photo": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",      "bio": "Amante de tecnologia  | Amante de animais",
+      "coverPhoto": "https://images.unsplash.com/photo-1669278340111-93766d4c5be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkb2clMjBwZXQlMjBjdXRlfGVufDF8fHx8MTc3MjA4Mjg1Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "juliana",
+      "name": "Juliana Oliveira",
+      "photo": "https://images.unsplash.com/photo-1717378706934-3f44829052e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlciUyMGdpcmwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIxMDM3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Estudante | Leitora voraz",
+      "coverPhoto": "https://images.unsplash.com/photo-1706195546853-a81b6a190daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwcmVhZGluZyUyMGNvenl8ZW58MXx8fHwxNzcyMDEyNTkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "roberto",
+      "name": "Roberto Alves",
+      "photo": "https://images.unsplash.com/photo-1523287409476-a9e70a25af3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMG1hbiUyMG91dGRvb3JzfGVufDF8fHx8MTc3MjEwMzc5OHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Personal Trainer | Vida saudável",
+      "coverPhoto": "https://images.unsplash.com/photo-1584827386916-b5351d3ba34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b3Jrb3V0JTIwZml0bmVzcyUyMGd5bXxlbnwxfHx8fDE3NzIxMDA1MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "fernanda", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "fernanda",
+      "name": "Fernanda Lima",
+      "photo": "https://images.unsplash.com/photo-1719963530981-7f540c08364f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGRlcmx5JTIwd29tYW4lMjBoYXBweXxlbnwxfHx8fDE3NzIxMDM3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Professora aposentada | Avó orgulhosa",
+      "coverPhoto": "https://images.unsplash.com/photo-1664289597477-d5b2d266169d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiaXJ0aGRheSUyMGNha2UlMjBjZWxlYnJhdGlvbnxlbnwxfHx8fDE3NzIwMDczNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "daniel", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel Bassani",
+      "photo": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
+      "description": "Show épico ontem à noite! 🎸🎵",
+      "bio": "Apaixonado por rock || Fã de Linkin Park",
+      "coverPhoto": "https://images.unsplash.com/photo-1631061434620-db65394197e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwbXVzaWMlMjBsaXZlfGVufDF8fHx8MTc3MjA1NDYzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "camila", "rafael", "jana"]
+    },
+    {
+      "id": "camila",
+      "name": "Camila Rodrigues",
+      "photo": "https://images.unsplash.com/photo-1689600944138-da3b150d9cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHByb2Zlc3Npb25hbCUyMGhlYWRzaG90fGVufDF8fHx8MTc3MjA3MTUzNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Arquiteta | Criando espaços incríveis",
+      "coverPhoto": "https://images.unsplash.com/photo-1688549450664-8189b4ac4751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbGlnaHRzJTIwbmlnaHR8ZW58MXx8fHwxNzcyMDgxNzkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "rafael", "jana"]
+    },
+    {
+      "id": "rafael",
+      "name": "Rafael Souza",
+      "photo": "https://images.unsplash.com/photo-1695485121912-25c7ea05119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYW4lMjBjYXN1YWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIwMjIzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Engenheiro | Solucionador de problemas",
+      "coverPhoto": "https://images.unsplash.com/photo-1629161156834-67f7a989ca67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdW5zZXQlMjBsYW5kc2NhcGUlMjBiZWF1dGlmdWx8ZW58MXx8fHwxNzcyMDkzMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "jana"]
+    },
+
+    {
+      "id": "jana",
+      "name": "Jana Ina",
+      "photo": "https://images.unsplash.com/photo-1581065178047-8ee15951ede6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHdvbWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzcyMDI4MzEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Médica | Cuidando de vidas",
+      "coverPhoto": "https://images.unsplash.com/photo-1710596220294-3f88dfe02fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBmb3Jlc3QlMjBncmVlbnxlbnwxfHx8fDE3NzIwMDI0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael"]
+    }
+  ],
+  "posts": [
+    {
+      "id": "p1",
+      "userId": "silva",
+      "userName": "Silva da Cunha",
+      "userPhoto": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Que jogão ontem! ",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Palmeiras-Fluminense-2-e1772074062738.jpg?w=1200&h=900&crop=1",      
+      "timestamp": "2026-02-25T14:30:00",
+      "likes": 42,
+      "comments": []
+    },
+    {
+      "id": "p2",
+      "userId": "silva",
+      "userName": "Silva da Cunha",
+      "userPhoto": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Foi aqui onde tudo começou, 110 anos do timão",
+      "image": "https://www.palmeiras.com.br/wp-content/uploads/2019/08/05.jpg",      
+      "timestamp": "2024-02-24T08:15:00",
+      "likes": 28,
+      "comments": []
+    },
+
+    {
+      "id": "p4",
+      "userId": "maria",
+      "userName": "Maria Gomes",
+      "userPhoto": "https://media.istockphoto.com/id/1330522839/pt/foto/young-woman-contemplating-at-home.jpg?s=2048x2048&w=is&k=20&c=mIlIrdHq1uc_JBwNIxuPUT5k0f4th1H6QN-WPDUkkw0=",      
+      "description": "Jantar maravilhoso com a família! 🍽️❤️",
+      "image": "https://images.unsplash.com/photo-1671393035355-1a28b63b1752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmb29kJTIwZGVsaWNpb3VzJTIwcmVzdGF1cmFudHxlbnwxfHx8fDE3NzIwMjMzNjh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "timestamp": "2026-02-25T20:00:00",
+      "likes": 56,
+      "comments": []
+    },
+    {
+      "id": "p5",
+      "userId": "pedro",
+      "userName": "Pedro Costa",
+      "userPhoto": "https://images.unsplash.com/photo-1695485121912-25c7ea05119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYW4lMjBjYXN1YWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIwMjIzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Aventura nas montanhas! A vista é espetacular 🏔️",
+      "image": "https://images.unsplash.com/photo-1713959989861-2425c95e9777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBtb3VudGFpbnMlMjBsYW5kc2NhcGV8ZW58MXx8fHwxNzcyMDk0OTAxfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "timestamp": "2026-02-25T16:20:00",
+      "likes": 73,
+      "comments": []
+    },
+    {
+      "id": "p6",
+      "userId": "ana",
+      "userName": "Ana Paula",
+      "userPhoto": "https://images.unsplash.com/photo-1525786210598-d527194d3e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMHdvbWFuJTIwc21pbGluZ3xlbnwxfHx8fDE3NzIwNTgzOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Cidade iluminada à noite é pura magia ✨🌃",
+      "image": "https://images.unsplash.com/photo-1688549450664-8189b4ac4751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbGlnaHRzJTIwbmlnaHR8ZW58MXx8fHwxNzcyMDgxNzkzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "timestamp": "2026-02-24T22:10:00",
+      "likes": 61,
+      "comments": []
+    },
+    {
+      "id": "p7",
+      "userId": "carlos",
+      "userName": "Carlos Almeida",
+      "userPhoto": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",
+      "description": "Meu novo melhor amigo 🐕❤️",
+      "image": "https://images.unsplash.com/photo-1669278340111-93766d4c5be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkb2clMjBwZXQlMjBjdXRlfGVufDF8fHx8MTc3MjA4Mjg1Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "timestamp": "2026-02-24T15:30:00",
+      "likes": 89,
+      "comments": []
+    },
+    {
+      "id": "p8",
+      "userId": "juliana",
+      "userName": "Juliana Oliveira",
+      "userPhoto": "https://images.unsplash.com/photo-1717378706934-3f44829052e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlciUyMGdpcmwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIxMDM3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Terminei mais um livro incrível hoje! 📚",
+      "image": "https://images.unsplash.com/photo-1706195546853-a81b6a190daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwcmVhZGluZyUyMGNvenl8ZW58MXx8fHwxNzcyMDEyNTkwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "timestamp": "2026-02-26T10:00:00",
+      "likes": 45,
+      "comments": []
+    },
+    {
+      "id": "p9",
+      "userId": "daniel",
+      "userName": "Daniel Bassani",
+      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
+      "description": "Show épico ontem à noite! 🎸🎵",
+      "image": "https://images.unsplash.com/photo-1631061434620-db65394197e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwbXVzaWMlMjBsaXZlfGVufDF8fHx8MTc3MjA1NDYzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "timestamp": "2026-02-26T09:00:00",
+      "likes": 92,
+      "comments": []
+    },
+    {
+      "id": "p9",
+      "userId": "daniel",
+      "userName": "Daniel Bassani",
+      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
+      "description": "Quem nunca teve uma banda favorita desde criança, não? hahaha",
+      "image": "https://www.boadiversao.com.br/midia/image/linkinpark-show_1696.jpg", 
+      "timestamp": "2026-01-26T09:00:00",
+      "likes": 92,
+      "comments": []
+    },
+    {
+      "id": "p9",
+      "userId": "daniel",
+      "userName": "Daniel Bassani",
+      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
+      "description": "Aeehh, galerinha. Quem vai? 🎸🎵",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhRq0TKfTD-tmpNUPt_B4KLYi_Zmfyq_bag&s",
+      "timestamp": "2025-02-26T09:00:00",
+      "likes": 92,
+      "comments": []
+    },
+     {
+      "id": "p9",
+      "userId": "daniel",
+      "userName": "Daniel Bassani",
+      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
+      "description": "Fundados em 1996, hoje Link Park está completando seus  20 anos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPWgGJ3m85yM6SpPj8jIiX_lwBVxOv8iEGQ&s",
+      "timestamp": "2016-02-26T09:00:00",
+      "likes": 92,
+      "comments": []
+    }
+
+
+
+
+    
+  ]
+}
+
