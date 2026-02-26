@@ -60,9 +60,9 @@ export function Profile() {
               <TabsContent value="posts">
                 <h2 className="text-2xl mb-4">Posts</h2>
                 {userPosts.length > 0 ? (
-                  userPosts.map((post) => (
+                  userPosts.map((post, index) => (
                     <Post
-                      key={post.id}
+                      key={`${post.userId}-${post.id}-${post.timestamp}-${index}`}
                       id={post.id}
                       userId={post.userId}
                       userName={post.userName}
@@ -114,9 +114,9 @@ export function Profile() {
               <div className="lg:col-span-2">
                 <h2 className="text-2xl mb-4">Posts</h2>
                 {userPosts.length > 0 ? (
-                  userPosts.map((post) => (
+                  userPosts.map((post, index) => (
                     <Post
-                      key={post.id}
+                      key={`${post.userId}-${post.id}-${post.timestamp}-${index}`}
                       id={post.id}
                       userId={post.userId}
                       userName={post.userName}

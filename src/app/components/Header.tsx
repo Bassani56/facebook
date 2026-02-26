@@ -9,8 +9,8 @@ export function Header() {
   return (
     <header className="bg-blue-600 text-white shadow-md sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <Link to="/" className="text-2xl">
-          FaceLivro
+        <Link to="/profile/maxnet" className="text-2xl">
+          FaceBucks
         </Link>
         
         {/* <nav className="flex gap-6">

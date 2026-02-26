@@ -10,9 +10,9 @@ export function Feed() {
       <main className="max-w-2xl mx-auto px-4 py-6">
         <h2 className="text-2xl mb-6">Feed de Notícias</h2>
         
-        {mockData.posts.map((post) => (
+        {mockData.posts.map((post, index) => (
           <Post
-            key={post.id}
+            key={`${post.userId}-${post.id}-${post.timestamp}-${index}`}
             id={post.id}
             userId={post.userId}
             userName={post.userName}

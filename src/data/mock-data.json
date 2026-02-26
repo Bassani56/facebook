@@ -7,7 +7,7 @@
       "photo": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "bio": "Palmeiras até a morte",
       "coverPhoto": "https://media-manager.noticiasaominuto.com.br/960/naom_63221d72978cf.webp",      
-      "friends": ["maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+      "friends": ["maria", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "jana"]
     },
     {
       "id": "maria",
@@ -37,7 +37,7 @@
       "name": "Carlos Almeida",
       "photo": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",      "bio": "Amante de tecnologia  | Amante de animais",
       "coverPhoto": "https://images.unsplash.com/photo-1669278340111-93766d4c5be4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkb2clMjBwZXQlMjBjdXRlfGVufDF8fHx8MTc3MjA4Mjg1Mnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "friends": ["silva", "maria", "pedro", "ana", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
+      "friends": ["silva", "maria", "pedro", "fernanda", "daniel", "camila", "rafael", "jana"]
     },
     {
       "id": "juliana",
@@ -93,14 +93,14 @@
       "id": "jana",
       "name": "Jana Ina",
       "photo": "https://images.unsplash.com/photo-1581065178047-8ee15951ede6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHdvbWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzcyMDI4MzEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "bio": "Médica | Cuidando de vidas",
+      "bio": "Amante de tecnologia",
       "coverPhoto": "https://images.unsplash.com/photo-1710596220294-3f88dfe02fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBmb3Jlc3QlMjBncmVlbnxlbnwxfHx8fDE3NzIwMDI0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael"]
+      "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "daniel", "camila", "rafael"]
     },
     {
       "id": "maxnet",
       "name": "MaxNet",
-      "photo": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "photo": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
       "bio": "Internet de alta velocidade para sua casa e empresa.",
       "coverPhoto": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
@@ -111,10 +111,10 @@
       "id": "maxnet-1",
       "userId": "maxnet",
       "userName": "MaxNet",
-      "userPhoto": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "userPhoto": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
       "description": "Chegamos com nova cobertura de fibra para mais bairros da cidade.",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "timestamp": "2026-02-26T08:00:00",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NtIOWFHwScUFD7y2kBqeGWeEga8Y8cOzKw&s",
+      "timestamp": "2024-02-26T08:00:00",
       "likes": 118,
       "comments": []
     },
@@ -122,13 +122,26 @@
       "id": "maxnet-2",
       "userId": "maxnet",
       "userName": "MaxNet",
-      "userPhoto": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "userPhoto": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
       "description": "Plano empresarial com suporte dedicado ja disponivel.",
       "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
-      "timestamp": "2026-02-25T11:20:00",
+      "timestamp": "2025-02-25T11:20:00",
       "likes": 87,
       "comments": []
     },
+
+     {
+      "id": "maxnet-3",
+      "userId": "maxnet",
+      "userName": "MaxNet",
+      "userPhoto": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
+      "description": "Utilizamos os melhores satélites para pessoas de diferentes regiões. Venha conosco!",
+      "image": "https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/03/internet.jpeg",
+      "timestamp": "2026-02-25T11:20:00",
+      "likes": 127,
+      "comments": []
+    },
+
     {
       "id": "p1",
       "userId": "silva",
@@ -138,6 +151,17 @@
       "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Palmeiras-Fluminense-2-e1772074062738.jpg?w=1200&h=900&crop=1",      
       "timestamp": "2026-02-25T14:30:00",
       "likes": 42,
+      "comments": []
+    },
+    {
+      "id": "ctf-silva-1",
+      "userId": "silva",
+      "userName": "Silva da Cunha",
+      "userPhoto": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Domingao perfeito: jogo no estadio, churrasco com os amigos e resenha ate tarde. Bora ver se esse ano vem titulo!",
+      "image": "",
+      "timestamp": "2026-02-20T18:40:00",
+      "likes": 67,
       "comments": []
     },
     {
@@ -219,13 +243,24 @@
       "comments": []
     },
     {
+      "id": "ctf-daniel-1",
+      "userId": "daniel",
+      "userName": "Daniel Bassani",
+      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Montei uma playlist so com classicos de rock dos anos 90 para treinar. Musica certa muda totalmente a energia do dia.",
+      "image": "",
+      "timestamp": "2026-02-25T07:35:00",
+      "likes": 83,
+      "comments": []
+    },
+    {
       "id": "p9",
       "userId": "daniel",
       "userName": "Daniel Bassani",
       "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
       "description": "Quem nunca teve uma banda favorita desde criança, não? hahaha",
       "image": "https://www.boadiversao.com.br/midia/image/linkinpark-show_1696.jpg", 
-      "timestamp": "2026-01-26T09:00:00",
+      "timestamp": "2026-01-24T09:00:00",
       "likes": 92,
       "comments": []
     },
@@ -245,17 +280,57 @@
       "userId": "daniel",
       "userName": "Daniel Bassani",
       "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-      "description": "Fundados em 1996, hoje Link Park está completando seus  20 anos",
+     "description": "Fundados em 1996, hoje Link Park está completando seus  20 anos",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPWgGJ3m85yM6SpPj8jIiX_lwBVxOv8iEGQ&s",
       "timestamp": "2016-02-26T09:00:00",
       "likes": 92,
       "comments": []
-    }
-
-
-
-
+    },
     
+    {
+      "id": "ctf-maria-1",
+      "userId": "maria",
+      "userName": "Maria Gomes",
+      "userPhoto": "https://media.istockphoto.com/id/1330522839/pt/foto/young-woman-contemplating-at-home.jpg?s=2048x2048&w=is&k=20&c=mIlIrdHq1uc_JBwNIxuPUT5k0f4th1H6QN-WPDUkkw0=",
+      "description": "Testei uma versao nova do meu risoto de cogumelos hoje. Quando acerto o ponto, ja sei que vai virar receita oficial de fim de semana.",
+      "image": "",
+      "timestamp": "2026-02-22T20:25:00",
+      "likes": 71,
+      "comments": []
+    },
+    {
+      "id": "ctf-carlos-1",
+      "userId": "carlos",
+      "userName": "Carlos Almeida",
+      "userPhoto": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",
+      "description": "Fim de noite com o combo que mais gosto: organizar meus gadgets e depois sair pra passear com meu cachorro no bairro.",
+      "image": "",
+      "timestamp": "2026-02-23T21:05:00",
+      "likes": 64,
+      "comments": []
+    },
+    {
+      "id": "ctf-ana-1",
+      "userId": "ana",
+      "userName": "Ana Paula",
+      "userPhoto": "https://images.unsplash.com/photo-1525786210598-d527194d3e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMHdvbWFuJTIwc21pbGluZ3xlbnwxfHx8fDE3NzIwNTgzOTh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Passei a tarde montando um painel de referencias para um projeto novo. Tipografia, cor e composicao mudam tudo no resultado final.",
+      "image": "",
+      "timestamp": "2026-02-24T17:10:00",
+      "likes": 58,
+      "comments": []
+    },
+    {
+      "id": "ctf-jana-1",
+      "userId": "jana",
+      "userName": "Jana Ina",
+      "userPhoto": "https://images.unsplash.com/photo-1581065178047-8ee15951ede6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHdvbWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzcyMDI4MzEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "description": "Semana puxada no trabalho, mas estamos a todo vapor!",
+      "image": "",
+      "timestamp": "2026-02-22T08:50:00",
+      "likes": 76,
+      "comments": []
+    }
   ]
 }
 
