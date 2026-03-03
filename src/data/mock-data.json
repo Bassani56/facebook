@@ -83,7 +83,7 @@
     {
       "id": "rafael",
       "name": "Rafael Souza",
-      "photo": "https://images.unsplash.com/photo-1695485121912-25c7ea05119c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYW4lMjBjYXN1YWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzIwMjIzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "photo": "https://media.istockphoto.com/id/1397417789/pt/foto/businessman-looking-out-of-window.jpg?s=2048x2048&w=is&k=20&c=9XxHLu7EEs8J_wryY4UqFe4P-0RFxB7CYx-JBpJAS24=",
       "bio": "Engenheiro | Solucionador de problemas",
       "coverPhoto": "https://images.unsplash.com/photo-1629161156834-67f7a989ca67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdW5zZXQlMjBsYW5kc2NhcGUlMjBiZWF1dGlmdWx8ZW58MXx8fHwxNzcyMDkzMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "jana"]
@@ -97,6 +97,166 @@
       "coverPhoto": "https://images.unsplash.com/photo-1710596220294-3f88dfe02fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBmb3Jlc3QlMjBncmVlbnxlbnwxfHx8fDE3NzIwMDI0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "daniel", "camila", "rafael"]
     },
+    {
+    "id": "lucas",
+    "name": "Lucas Mendonça",
+    "photo": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+    "bio": "Gamer nas horas vagas | Amante de café",
+    "coverPhoto": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "friends": ["silva", "maria", "pedro", "ana", "juliana", "camila", "rafael"]
+  },
+  {
+    "id": "sofia",
+    "name": "Sofia Martins",
+    "photo": "https://media.istockphoto.com/id/1915382108/pt/foto/smiling-friendly-confident-millennial-caucasian-lady-manager-teacher-in-formal-wear-with.jpg?s=2048x2048&w=is&k=20&c=xJMCkYTc_p5SvF_GG8-lDMJep4BCGtWXZbJkF9nN7oU=",
+    "bio": "Apaixonada por trilhas e natureza",
+    "coverPhoto": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "friends": ["ana", "carlos", "camila", "fernanda", "jana"]
+  },
+  {
+    "id": "gustavo",
+    "name": "Gustavo Vieira",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVzc29hc3xlbnwwfHwwfHx8MA%3D%3D",
+    "bio": "Viciado em tecnologia | Apreciador de bons filmes",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl7nX74F7LW_IModAqhZs7nfpiq3CmlLL2rg&s",
+    "friends": ["lucas", "silva", "pedro", "daniel", "rafael"]
+  },
+  {
+    "id": "aline",
+    "name": "Aline Moreira",
+    "photo": "https://images.unsplash.com/photo-1589156191108-c762ff4b96ab",
+    "bio": "Amante de fotografia e viagens",
+    "coverPhoto": "https://images.unsplash.com/photo-1503264116251-35a269479413",
+    "friends": ["maria", "ana", "juliana", "roberto"]
+  },
+  {
+    "id": "felipe",
+    "name": "Felipe Rocha",
+    "photo": "https://media.istockphoto.com/id/1340262825/pt/foto/handsome-executive-looking-away-while-standing-at-the-street.jpg?s=2048x2048&w=is&k=20&c=e1Y24xGRFE8OThBlP04UaHLhOgr3gbmiq0oQ7wdFr08=",
+    "bio": "Curioso por novos desafios | Fã de documentários",
+    "coverPhoto": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66",
+    "friends": ["rafael", "carlos", "lucas", "gustavo"]
+  },
+  {
+    "id": "bruna",
+    "name": "Bruna Nogueira",
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "bio": "Ama livros e longas caminhadas ao ar livre",
+    "coverPhoto": "https://images.unsplash.com/photo-1503264116251-35a269479413",
+    "friends": ["fernanda", "maria", "carlos", "roberto"]
+  },
+  {
+    "id": "thiago",
+    "name": "Thiago Lima",
+    "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+    "bio": "Apaixonado por inovação e jogos de tabuleiro",
+    "coverPhoto": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "friends": ["silva", "gustavo", "felipe"]
+  },
+  {
+    "id": "patricia",
+    "name": "Patrícia Freitas",
+    "photo": "https://media.istockphoto.com/id/1128065494/pt/foto/multiple-image-of-young-women-against.jpg?s=2048x2048&w=is&k=20&c=8BIX-YVPBab6RGhK5bWWnplNS7m0wYvPowgLcf4DLBk=",
+    "bio": "Gosta de meditação e boas conversas",
+    "coverPhoto": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "friends": ["bruna", "sofia", "ana"]
+  },
+  {
+    "id": "marcos",
+    "name": "Marcos Silva",
+    "photo": "https://media.istockphoto.com/id/1822009439/pt/foto/business-happy-and-walking-black-man-on-city-journey-commute-trip-and-real-estate-agent-smile.jpg?s=2048x2048&w=is&k=20&c=hO1CTChe6RuNS1ZCRdE5IGGg5VMgN0dtxoCA8R63DQ4=",
+    "bio": "Amante de música e colecionador de vinis",
+    "coverPhoto": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29",
+    "friends": ["thiago", "pedro", "daniel", "lucas"]
+  },
+  {
+    "id": "isabela",
+    "name": "Isabela Monteiro",
+    "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    "bio": "Adora viagens curtas e bons cafés",
+    "coverPhoto": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+    "friends": ["patricia", "aline", "juliana"]
+  },
+  {
+    "id": "henrique",
+    "name": "Henrique Batista",
+    "photo": "https://media.istockphoto.com/id/867277296/pt/foto/happy-businessman-walking-on-city-street-and-reading-messages-on-smart-phone.jpg?s=2048x2048&w=is&k=20&c=hq600dFgw0mSlYF1lH3_zYqDHMetiery0MIK_Q9WGac=",
+    "bio": "Ciclista de final de semana | Amante de aventuras",
+    "coverPhoto": "https://images.unsplash.com/photo-1526401485004-2aa7f3c4e58f",
+    "friends": ["marcos", "pedro", "rafael"]
+  },
+  {
+    "id": "karina",
+    "name": "Karina Lopes",
+    "photo": "https://media.istockphoto.com/id/1289221241/pt/foto/woman-stretching-in-bathroom-after-wake-up.jpg?s=2048x2048&w=is&k=20&c=WvQqFgRaZ5gMXWyS2uve3jTeaY3SUoiUvAxuB7hieew=",
+    "bio": "Apaixonada por capturar momentos únicos",
+    "coverPhoto": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "friends": ["sofia", "camila", "ana"]
+  },
+  {
+    "id": "roger",
+    "name": "Roger Faria",
+    "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "bio": "Aficionado por livros e história",
+    "coverPhoto": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "friends": ["fernanda", "lucas", "marcos"]
+  },
+  {
+    "id": "valeria",
+    "name": "Valéria Santos",
+    "photo": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7",
+    "bio": "Criativa | Ama moda e fotografia",
+    "coverPhoto": "https://images.unsplash.com/photo-1526401485004-2aa7f3c4e58f",
+    "friends": ["bruna", "aline", "karina"]
+  },
+  {
+    "id": "edson",
+    "name": "Edson Carvalho",
+    "photo": "https://media.istockphoto.com/id/1487346705/pt/foto/mid-adult-man-contemplating-in-the-airport-hangar.jpg?s=2048x2048&w=is&k=20&c=vGApQuaTu6sE6RVT6-HEY42jBXSB-XHIHV4TnUAn-Tc=",
+    "bio": "Amante de animais e trilhas",
+    "coverPhoto": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66",
+    "friends": ["carlos", "fernanda", "sofia"]
+  },
+  {
+    "id": "natalia",
+    "name": "Natália Torres",
+    "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+    "bio": "Criativa | Ama artesanato e decoração",
+    "coverPhoto": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29",
+    "friends": ["valeria", "karina", "isabela"]
+  },
+  {
+    "id": "renato",
+    "name": "Renato Pires",
+    "photo": "https://media.istockphoto.com/id/1808087645/pt/foto/waist-up-shot-of-a-caucasian-and-confident-young-male-in-a-suit-with-big-smile-using-a.jpg?s=2048x2048&w=is&k=20&c=pdNtOIeus1esvBAWOs9aAvFmJ7oP-iWaYf0H_oNWnUo=",
+    "bio": "Apaixonado por livros e números",
+    "coverPhoto": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+    "friends": ["felipe", "roger", "gustavo"]
+  },
+  {
+    "id": "tatiane",
+    "name": "Tatiane Ribeiro",
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "bio": "Criativa | Ama moda e desenhar",
+    "coverPhoto": "https://images.unsplash.com/photo-1503264116251-35a269479413",
+    "friends": ["aline", "natalia", "karina"]
+  },
+  {
+    "id": "igor",
+    "name": "Igor Freire",
+    "photo": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+    "bio": "Focado em esportes e desafios pessoais",
+    "coverPhoto": "https://images.unsplash.com/photo-1526401485004-2aa7f3c4e58f",
+    "friends": ["renato", "thiago", "marcos"]
+  },
+  {
+    "id": "melissa",
+    "name": "Melissa Duarte",
+    "photo": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+    "bio": "Ama culinária saudável e bem-estar",
+    "coverPhoto": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "friends": ["bruna", "fernanda", "camila"]
+  },
     {
       "id": "maxnet",
       "name": "MaxNet",
@@ -330,7 +490,184 @@
       "timestamp": "2026-02-22T08:50:00",
       "likes": 76,
       "comments": []
-    }
+    },
+      {
+  "id": "lucas-1",
+  "userId": "lucas",
+  "userName": "Lucas Mendonça",
+  "userPhoto": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+  "description": "Primeira trilha do ano concluída! Capturei cada momento – nada como natureza, silêncio e uma boa foto.",
+  "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-26T12:10:00",
+  "likes": 58,
+  "comments": []
+},
+{
+  "id": "lucas-2",
+  "userId": "lucas",
+  "userName": "Lucas Mendonça",
+  "userPhoto": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+  "description": "Testei uma receita nova de massa caseira hoje. Resultado? Quero fazer todo final de semana agora 😂🍝",
+  "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-24T19:20:00",
+  "likes": 63,
+  "comments": []
+},
+
+{
+  "id": "aline-1",
+  "userId": "aline",
+  "userName": "Aline Moreira",
+  "userPhoto": "https://images.unsplash.com/photo-1589156191108-c762ff4b96ab",
+  "description": "Hoje encontrei um café novo na cidade. Ambiente calmo, xícara quente e páginas novas sendo escritas ☕📖",
+  "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-26T09:40:00",
+  "likes": 48,
+  "comments": []
+},
+{
+  "id": "aline-2",
+  "userId": "aline",
+  "userName": "Aline Moreira",
+  "userPhoto": "https://images.unsplash.com/photo-1589156191108-c762ff4b96ab",
+  "description": "Próxima parada: uma cidade litorânea que sempre sonhei conhecer. Malas prontas e caderno novo.",
+  "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-23T15:15:00",
+  "likes": 52,
+  "comments": []
+},
+{
+  "id": "igor-1",
+  "userId": "igor",
+  "userName": "Igor Freire",
+  "userPhoto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+  "description": "Nada como tirar a bicicleta da garagem e sumir pela cidade por algumas horas. Liberdade total.",
+  "image": "https://bikeregistrada.com.br/blog/wp-content/uploads/2024/03/Untitled-4.png",
+  "timestamp": "2026-02-25T17:00:00",
+  "likes": 71,
+  "comments": []
+},
+{
+  "id": "igor-2",
+  "userId": "igor",
+  "userName": "Igor Freire",
+  "userPhoto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+  "description": "Dia de nostalgia: finalizei de novo meu clássico favorito do SNES. Gráficos simples, diversão perfeita 🎮",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQ1Lf9iDzR5pemayA6eZqOiYDsAUmcpuxrw&s", 
+  "timestamp": "2026-02-24T21:30:00",
+  "likes": 66,
+  "comments": []
+},
+{
+  "id": "melissa-1",
+  "userId": "melissa",
+  "userName": "Melissa Duarte",
+  "userPhoto": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Passei a manhã cuidando das minhas suculentas. Elas finalmente começaram a florescer 🌱💚",
+  "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-26T08:20:00",
+  "likes": 54,
+  "comments": []
+},
+{
+  "id": "melissa-2",
+  "userId": "melissa",
+  "userName": "Melissa Duarte",
+  "userPhoto": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Maratonei um dos melhores filmes clássicos hoje. A fotografia desses filmes é algo que nunca envelhece.",
+  "image":  "https://i.ytimg.com/vi/H23lEseol4g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB1M7gmrljNgA4gx6mc0vHNl-sVVw" ,
+  "timestamp": "2026-02-23T22:10:00",
+  "likes": 47,
+  "comments": []
+},
+{
+  "id": "thiago-1",
+  "userId": "thiago",
+  "userName": "Thiago Lima",
+  "userPhoto": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Monte de novo meu cubo 3x3 abaixo de 15s! Agora vou tentar bater os 10s 😂",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTijvJuzneBjABcSIDX8jBsMxV5K0N7NZY-fg&s",
+  "timestamp": "2026-02-26T14:30:00",
+  "likes": 88,
+  "comments": []
+},
+{
+  "id": "thiago-2",
+  "userId": "thiago",
+  "userName": "Thiago Lima",
+  "userPhoto": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Céu limpo hoje! Consegui ver perfeitamente Orion e Júpiter. Noite perfeita pra quem ama astronomia.",
+  "image": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-24T23:45:00",
+  "likes": 79,
+  "comments": []
+},
+{
+  "id": "henrique-1",
+  "userId": "henrique",
+  "userName": "Henrique Batista",
+  "userPhoto": "https://media.istockphoto.com/id/867277296/pt/foto/happy-businessman-walking-on-city-street-and-reading-messages-on-smart-phone.jpg?s=2048x2048&w=is&k=20&c=hq600dFgw0mSlYF1lH3_zYqDHMetiery0MIK_Q9WGac=",  
+  "description": "Amanhecer na serra hoje foi surreal. A neblina abriu bem na hora da foto!",
+  "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-26T06:15:00",
+  "likes": 54,
+  "comments": []
+},
+{
+  "id": "natalia-1",
+  "userId": "natalia",
+  "userName": "Natália Torres",
+  "userPhoto": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Saiu do forno: minha nova receita de bolo de limão com cobertura cremosa. Ficou top demais!",
+  "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-25T17:45:00",
+  "likes": 63,
+  "comments": []
+},
+{
+  "id": "roger-1",
+  "userId": "roger",
+  "userName": "Roger Faria",
+  "userPhoto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Encontro de clássicos hoje! Esse Opala 78 roubou a cena. Quem curte também?",
+  "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-24T10:20:00",
+  "likes": 81,
+  "comments": []
+},
+{
+  "id": "sofia-1",
+  "userId": "sofia",
+  "userName": "Sofia Martins",
+  "userPhoto": "https://media.istockphoto.com/id/1915382108/pt/foto/smiling-friendly-confident-millennial-caucasian-lady-manager-teacher-in-formal-wear-with.jpg?s=2048x2048&w=is&k=20&c=xJMCkYTc_p5SvF_GG8-lDMJep4BCGtWXZbJkF9nN7oU=",
+  "description": "Terminei minha pintura nova hoje! Cores mais suaves, clima mais calmo. Acho que virou uma das minhas favoritas.",
+  "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-26T14:10:00",
+  "likes": 59,
+  "comments": []
+},
+{
+  "id": "gustavo-1",
+  "userId": "gustavo",
+  "userName": "Gustavo Vieira",
+  "userPhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVzc29hc3xlbnwwfHwwfHx8MA%3D%3D",
+  "description": "30km pedalados hoje! Trilha pesada, mas a vista final compensou cada subida.",
+  "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-26T07:45:00",
+  "likes": 72,
+  "comments": []
+},
+{
+  "id": "melissa-1",
+  "userId": "melissa",
+  "userName": "Melissa Duarte",
+  "userPhoto": "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "description": "Primeira florada da minha orquídea negra! Demorou meses, mas valeu cada cuidado.",
+  "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+  "timestamp": "2026-02-25T09:25:00",
+  "likes": 84,
+  "comments": []
+}
   ]
 }
 
