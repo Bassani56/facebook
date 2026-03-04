@@ -68,8 +68,8 @@
       "name": "Daniel Bassani",
       "photo": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
       "description": "Show épico ontem à noite!",
-      "bio": "Apaixonado por rock | Fã de Linkin Park",
-      "coverPhoto": "https://images.unsplash.com/photo-1631061434620-db65394197e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwbXVzaWMlMjBsaXZlfGVufDF8fHx8MTc3MjA1NDYzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      "bio": "Apaixonado por rock | Fã de Linkin Park desde 1996",
+      "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrb8wBm1PAAs9LJR8JlxEO7_Ju8PdWHZX-5w&s",      
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "camila", "rafael", "jana"]
     },
     {
@@ -391,17 +391,7 @@
       "likes": 45,
       "comments": []
     },
-    {
-      "id": "p9",
-      "userId": "daniel",
-      "userName": "Daniel Bassani",
-      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-      "description": "Show épico ontem à noite!",
-      "image": "https://images.unsplash.com/photo-1631061434620-db65394197e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwbXVzaWMlMjBsaXZlfGVufDF8fHx8MTc3MjA1NDYzMXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      "timestamp": "2026-02-26T09:00:00",
-      "likes": 92,
-      "comments": []
-    },
+
     {
       "id": "ctf-daniel-1",
       "userId": "daniel",
@@ -424,23 +414,13 @@
       "likes": 92,
       "comments": []
     },
-    {
-      "id": "p9",
-      "userId": "daniel",
-      "userName": "Daniel Bassani",
-      "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-      "description": "Aeehh, galerinha. Quem vai?",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhRq0TKfTD-tmpNUPt_B4KLYi_Zmfyq_bag&s",
-      "timestamp": "2025-02-26T09:00:00",
-      "likes": 92,
-      "comments": []
-    },
+
      {
       "id": "p9",
       "userId": "daniel",
       "userName": "Daniel Bassani",
       "userPhoto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",      
-     "description": "Fundados em 1996, hoje Link Park está completando seus  20 anos",
+     "description": "Fundados em 1996, hoje Linking Park está completando seus  20 anos",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPWgGJ3m85yM6SpPj8jIiX_lwBVxOv8iEGQ&s",
       "timestamp": "2016-02-26T09:00:00",
       "likes": 92,
