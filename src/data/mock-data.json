@@ -260,9 +260,9 @@
     {
       "id": "maxnet",
       "name": "MaxNet",
-      "photo": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
+      "photo": "https://play-lh.googleusercontent.com/MoElFpBiJ0D6kO_pjVhYY8bNtojRZVTu8jUH7ERnpI2EVuPfr4jiGMlzTmPGsPRNods",    
       "bio": "Internet de alta velocidade para sua casa e empresa.",
-      "coverPhoto": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSyTQRwlD1fegFnnUZWpSVNoM88JBXZ6MfQ&s",      
       "friends": ["silva", "maria", "pedro", "ana", "carlos", "juliana", "roberto", "fernanda", "daniel", "camila", "rafael", "jana"]
     }
   ],
@@ -271,7 +271,7 @@
       "id": "maxnet-1",
       "userId": "maxnet",
       "userName": "MaxNet",
-      "userPhoto": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
+      "userPhoto": "https://play-lh.googleusercontent.com/MoElFpBiJ0D6kO_pjVhYY8bNtojRZVTu8jUH7ERnpI2EVuPfr4jiGMlzTmPGsPRNods",
       "description": "Chegamos com nova cobertura de fibra para mais bairros da cidade.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NtIOWFHwScUFD7y2kBqeGWeEga8Y8cOzKw&s",
       "timestamp": "2024-02-26T08:00:00",
@@ -282,7 +282,7 @@
       "id": "maxnet-2",
       "userId": "maxnet",
       "userName": "MaxNet",
-      "userPhoto": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
+      "userPhoto": "https://play-lh.googleusercontent.com/MoElFpBiJ0D6kO_pjVhYY8bNtojRZVTu8jUH7ERnpI2EVuPfr4jiGMlzTmPGsPRNods",     
       "description": "Plano empresarial com suporte dedicado ja disponivel.",
       "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
       "timestamp": "2025-02-25T11:20:00",
@@ -294,7 +294,7 @@
       "id": "maxnet-3",
       "userId": "maxnet",
       "userName": "MaxNet",
-      "userPhoto": "https://intelcorp.scene7.com/is/image/intelcorp/language-icon-lvl-2-abstract-bg:1920-1080?wid=864&hei=486&fmt=webp-alpha",
+      "userPhoto": "https://play-lh.googleusercontent.com/MoElFpBiJ0D6kO_pjVhYY8bNtojRZVTu8jUH7ERnpI2EVuPfr4jiGMlzTmPGsPRNods",
       "description": "Utilizamos os melhores satélites para pessoas de diferentes regiões. Venha conosco!",
       "image": "https://bahiaeconomica.com.br/wp/wp-content/uploads/2020/03/internet.jpeg",
       "timestamp": "2026-02-25T11:20:00",
